@@ -1,20 +1,8 @@
-This is your group repo for your final project for COGS108.
+This is a fork of the group repo for our final analysis project for COGS 108 thati did in collaboration with Alex Cheng, Terence Ting, Thomas Kolinek, and Yicong Guo.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+The class required the submission of multiple checkpoints in the form of Jupyter notebooks that would be submitted through the course of the quarter. These detailed our basic process of coming up with a proposal for our final project, an overview of the databases we would use for our analysis, another overview of the exploratory data analysis techniques that were planned for use in our project, and finally the final submission.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Checkpoint #1 notebook). 
-
-This repository will be frozen on the final project due date. No further changes can be made after that time.
-
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
-
-Template Jupyter notebooks have been included. Be sure to change XXX to your group's group number in the file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XX is replaced by your group number):
-
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
-
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+- `ProjectProposal_group048.ipynb`
+- `DataCheckpoint_group048.ipynb`
+- `EDACheckpoint_group048.ipynb`
+- `FinalProject_group048.ipynb`
